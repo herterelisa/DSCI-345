@@ -1,4 +1,4 @@
-# DSCI 345 — Probability & Statistics for Data Science
+# DSCI 345 Probability & Statistics for Data Science
 
 This repo contains my homework assignments for DSCI 345, a course covering the theoretical foundations of probability and statistics for data science.
 
